@@ -12,9 +12,10 @@
     --grey-2: #DDE2E5;
     --grey-3: #ACB5BD;
     --grey-4: #495057;
-    --primary-button-background: #4263EB;
-    --primary-button-background-h: #2342c0;
-    --secondary-button-background-h: #5028c6;
+    
+    --primary-background: #4263EB;
+    --primary-background-h: #2342c0;
+    --secondary-background-h: #5028c6;
 
     --error: var(--red);
     --success: var(--blue);

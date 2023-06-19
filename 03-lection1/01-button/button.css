@@ -10,12 +10,12 @@
 }
 
 .button_primary {
-  background: var(--primary-button-background);
+  background: var(--primary-background);
   color: var(--white);
 }
 
 .button_primary:hover {
-  background: var(--primary-button-background-h);
+  background: var(--primary-background-h);
 }
 
 .button_secondary {
