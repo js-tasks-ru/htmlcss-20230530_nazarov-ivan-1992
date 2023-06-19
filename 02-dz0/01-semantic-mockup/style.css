@@ -1,0 +1,42 @@
+header {
+  text-align: center;
+  color: white;
+}
+
+header h1 {
+  margin-bottom: 0;
+  background-color: red;
+}
+
+header nav {
+  background-color: orange;
+  font-size: 1.3em;
+}
+
+header nav a {
+  margin-left: 0.8em;
+  color: white;
+}
+
+main {
+  border: solid green 0.7em;
+  background-color: blue;
+  color: white;
+}
+
+article {
+    padding: 2em;
+}
+
+main hr {
+  height: 0.5em;
+  background: green;
+  border: none;
+}
+
+footer {
+  background-color: purple;
+  color: white;
+  text-align: center;
+  font-size: 1.3em;
+}
