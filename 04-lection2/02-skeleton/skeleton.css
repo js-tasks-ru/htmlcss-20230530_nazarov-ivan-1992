@@ -1,0 +1,40 @@
+.skeleton {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 192px;
+    width: 579px;
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-bottom: 32px;
+    padding-right: 40px;
+    border: 1px solid var(--grey-3);
+    border-radius: 8px;
+}
+
+.skeleton__header {
+    display: flex;
+    margin: 0 -16px;
+}
+
+.skeleton__header__cyrcle {
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+    margin: 0 16px;
+    background-color: var(--grey-2);
+}
+
+.skeleton__rectangles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: -4px 0;
+}
+
+.skeleton__rectangle {
+    height: 20px;
+    margin: 4px 0;
+    background-color: var(--grey-2);
+}
